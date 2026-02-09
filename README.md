@@ -103,7 +103,7 @@ The dashboard includes a narrative summary that highlights:
 This simulates **GenAI-assisted reporting** by converting analytical insights into readable business summaries.
 
 
-## 🛠 Tools & Technologies
+ Tools & Technologies
 - Power BI Desktop
 - Power Query
 - DAX (Measures)
