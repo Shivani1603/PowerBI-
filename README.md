@@ -122,7 +122,3 @@ This simulates **GenAI-assisted reporting** by converting analytical insights in
  Conclusion
 This project demonstrates how **Power BI AI features** can be effectively used for financial anomaly monitoring.  
 By combining data preparation, AI-driven visuals, and narrative reporting, the solution provides a practical and scalable approach to fraud detection in fintech environments.
-
-
-
-Power BI | Data Analytics | Fintech Analytics
